@@ -1,0 +1,20 @@
+{
+  "name": "kraken",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pre-config.js",
+  "scripts": {
+    "script": "node script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/david-lyon-uniandes/PRUEBAS_REGRESION_GHOST_KRAKEN.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/david-lyon-uniandes/PRUEBAS_REGRESION_GHOST_KRAKEN/issues"
+  },
+  "homepage": "https://github.com/david-lyon-uniandes/PRUEBAS_REGRESION_GHOST_KRAKEN#readme"
+}
