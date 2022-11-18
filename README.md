@@ -71,6 +71,9 @@
 </tr>
 </table>
 
+## Repositorios
+
+[Kraken](https://github.com/ELISAANGULO/pruebaskraken)
 
 ## Ejecución Backstop JS
 
