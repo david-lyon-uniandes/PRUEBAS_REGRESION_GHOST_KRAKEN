@@ -1,6 +1,6 @@
 # PRUEBAS_REGRESION_GHOST_KRAKEN
  
- ## Equipo 
+ # Equipo 
 
 | Nombre            | email |
 | -------------     | ------------- |
@@ -31,11 +31,12 @@
 
 1. Cuando se tiene varias imagenes por analizar puede ser un proceso largo, porque se debe codificar con javascript las pruebas de los escenarios, para poder ejecutar correctamente los analisis de las imagenes y encontrar diferencias para hacer regresión. 
 
-## Reportes
+# Reportes
 
 [Escenario 1 y 2](https://uniandes-my.sharepoint.com/:w:/g/personal/da_vargasl1_uniandes_edu_co/EZcX7cm9yhlNvq4bDLYuxhkB_wF76dtIaLq6UvA1tMpClg?e=C4ySrE)
 <br/>
-## Escenarios implementados en Kraken 🐙 y analizados en Backstop JS
+
+# Escenarios implementados en Kraken 🐙 y analizados en Backstop JS
 
 <table align="center">
 <tr align="center">
@@ -94,11 +95,11 @@
 </tr>
 </table>
 
-## Repositorios
+# Repositorios
 
 [Kraken](https://github.com/ELISAANGULO/pruebaskraken)
 
-## Ejecución Backstop JS
+# Ejecución Backstop JS
 
 1. Instalar las dependencias
 
