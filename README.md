@@ -19,28 +19,6 @@
 | git diff     | git diff       | Ghost         | Link          | Link         |
 | git diff     | git diff       | Ghost         | Link          | Link         |
 
-# Resemblejs
-
-## Pros
-
-1. Permite configurar colores y caracteristicas de imagenes del resultado en el informe
-2. Permite realizar las pruebas de regresion visual con diferentes opciones de presentacion,mediante scripts.js 
-3. En el reporte la informacion que se presenta permite determinar las caracteristicas de las comparaciones como las diferencias en porcentaje.
-
-## Contras
-
-1. Respecto al reporte que genera se identifica que no se pueden tener configuraciones en los parametros para  realizar una comparacion, esto con ejemplo umbrales para las diferencias entre imagenes.
-
-# Backstop
-
-## Pros
-
-1. Permite configurar los umbrales de prueba con opciones como "misMatchThreshold", que permite al momemto del reporte analizar la informacion de las pruebas de regresión, con las comparaciones que fallan en relación a los umbrales por superar este mismo que fueron configurados en las pruebas previamente.
-
-## Contras
-
-1. Cuando se tiene varias imagenes por analizar puede ser un proceso largo, porque se debe codificar con javascript las pruebas de los escenarios, para poder ejecutar correctamente los analisis de las imagenes y encontrar diferencias para hacer regresión. 
-
 # Reportes
 
 [Escenario 1 y 2](https://uniandes-my.sharepoint.com/:w:/g/personal/da_vargasl1_uniandes_edu_co/EZcX7cm9yhlNvq4bDLYuxhkB_wF76dtIaLq6UvA1tMpClg?e=C4ySrE)
