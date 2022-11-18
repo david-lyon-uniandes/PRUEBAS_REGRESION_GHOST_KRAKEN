@@ -72,10 +72,7 @@
 </table>
 
 
-## Ejecución
-
-
-# Ejecutar Script
+## Ejecución Backstop JS
 
 1. Instalar las dependencias
 
