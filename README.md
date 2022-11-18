@@ -15,10 +15,10 @@
 | :---         |     :---:      |          ---: |     :---:      |
 | Diferencia en login   | git status     | Ghost         |![Screenshot 2022-11-18 185440](https://user-images.githubusercontent.com/111364928/202816586-c1e19fa6-066e-49d4-bbbf-6a6d1d4dc414.jpg)|
 | Diferencia en barra de navegación y el header     | git diff       | Ghost         |![Screenshot 2022-11-18 185719](https://user-images.githubusercontent.com/111364928/202816810-1a01b634-4ac6-48b1-9b8a-dee580961c4c.jpg) |
-| Diferencia en edición de paginas     | git diff       | Ghost         |![Screenshot 2022-11-18 185918](https://user-images.githubusercontent.com/111364928/202816987-5cf36ca7-6f05-435a-8411-ed776ea1ff48.jpg)|
-| Edición de página   | git diff       | Ghost         |![Screenshot 2022-11-18 190056](https://user-images.githubusercontent.com/111364928/202817193-389d2dd6-13a8-4447-a044-dc9d226a889a.jpg)|
-| git diff     | git diff       | Ghost         |![Screenshot 2022-11-18 190154](https://user-images.githubusercontent.com/111364928/202817290-210e34ca-f53a-45db-9a12-313865e1af72.jpg)|
-| git diff     | git diff       | Ghost         |![Screenshot 2022-11-18 190341](https://user-images.githubusercontent.com/111364928/202817465-9f4bf4c5-4b68-44fd-b049-1d404aeb9155.jpg)|
+| Diferencia en crear posts    | git diff       | Ghost         |![Screenshot 2022-11-18 185918](https://user-images.githubusercontent.com/111364928/202816987-5cf36ca7-6f05-435a-8411-ed776ea1ff48.jpg)|
+| listado de paginas   | git diff       | Ghost         |![Screenshot 2022-11-18 190056](https://user-images.githubusercontent.com/111364928/202817193-389d2dd6-13a8-4447-a044-dc9d226a889a.jpg)|
+| Edición de páginas     | git diff       | Ghost         |![Screenshot 2022-11-18 190154](https://user-images.githubusercontent.com/111364928/202817290-210e34ca-f53a-45db-9a12-313865e1af72.jpg)|
+| crear páginas     | git diff       | Ghost         |![Screenshot 2022-11-18 190341](https://user-images.githubusercontent.com/111364928/202817465-9f4bf4c5-4b68-44fd-b049-1d404aeb9155.jpg)|
 
 # Reportes
 
