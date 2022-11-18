@@ -71,32 +71,31 @@
 </tr>
 </table>
 
-## prerequisitos 
-
-npm 8.19.2
-<br/> 
-[Ghost CLI](https://ghost.org/docs/ghost-cli/)
-<br/>
-node 16.17.1
 
 ## Ejecución
 
 
 # Ejecutar Script
 
-1. Ejecutar Script
+1. Instalar las dependencias
+
+```shell
+npm install -g backstopjs
+```
+
+2. Ejecutar Script
 
 ```shell
 npm run script
 ```
 
-2. Ejecutar comando
+3. Ejecutar comando
 
 ```shell
 backstop reference
 ```
 
-3. Ejecutar comando
+4. Ejecutar comando
 
 ```shell
 backstop test
