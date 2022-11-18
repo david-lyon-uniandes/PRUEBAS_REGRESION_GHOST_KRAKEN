@@ -9,21 +9,8 @@
 | Camilo Barreiro   | c.barreiroh@uniandes.edu.co  |
 | Isaí Oliva        | i.oliva@uniandes.edu.co  |
 ## Reportes
-[Escenario 1](https://uniandes-my.sharepoint.com/:w:/g/personal/i_oliva_uniandes_edu_co/EXtuFEWlQ8FFoqIdmjGWBmcBDiaRgZ8WDSPJ5eBV24qOag?e=Gh5AHH)
+[Escenario 1 y 2]([https://uniandes-my.sharepoint.com/:w:/g/personal/i_oliva_uniandes_edu_co/EXtuFEWlQ8FFoqIdmjGWBmcBDiaRgZ8WDSPJ5eBV24qOag?e=Gh5AHH](https://uniandes-my.sharepoint.com/:w:/g/personal/da_vargasl1_uniandes_edu_co/EZcX7cm9yhlNvq4bDLYuxhkB_wF76dtIaLq6UvA1tMpClg?e=v0o8Jp))
 <br/>
-[Escenario 2](https://uniandes-my.sharepoint.com/:w:/g/personal/i_oliva_uniandes_edu_co/EXtuFEWlQ8FFoqIdmjGWBmcBDiaRgZ8WDSPJ5eBV24qOag?e=hxbCSF)
-
-# Pruebas con Cypress
-
-Para visualizar las pruebas con Cypres por favor dirigirse a la siguiente url <a href="https://github.com/ELISAANGULO/Cypress">Click aqui</a>
-
-Adicional en la wiki encontrar las ventajas de cada herramienta teniendo en cuenta como base la estrategia implementada.
-
-
-<h1 align="left">Escenarios de pruebas Automatizadas con Kraken🐙</h1>
-
-A continuacion se visualizar varios escenarios de pruebas que se imnplementaron en kraken y cypress. En este repositorio se encuentra lo que son las pruebas realizadas con kraken de acuerdo a la tabla que se muestra a continuación.
-
 
 ## Escenarios implementados en Kraken 🐙
 
@@ -100,23 +87,6 @@ A continuacion se visualizar varios escenarios de pruebas que se imnplementaron 
 <tr align="center">
 <td>Registrar usuario solo con email y no poner contraseña </td>
 <td><a href="https://github.com/ELISAANGULO/pruebaskraken/tree/main/reports/Crear_Usuario_Sin_Contrase%C3%B1a">Click aqui</a></td>
-</tr>
-<tr align="center">
-<th rowspan="4"><center> Crear miembro</center></th>
-<td>Añadiendose a uno mismo como miembro</td>
-<td><a href="https://github.com/ELISAANGULO/pruebaskraken/tree/main/reports/Crear_miembro_A%C3%B1adirse_Como_Miembro">Click aqui</a></td>
-</tr>
-<tr align="center">
-<td>Guardar miembro vacio</td>
-<td><a href="https://github.com/ELISAANGULO/pruebaskraken/tree/main/reports/Crear_miembro_vacio">Click aqui</a></td>
-</tr>
-<tr align="center">
-<td>Guardar miembro con un email erroneo</td>
-<td><a href="https://github.com/ELISAANGULO/pruebaskraken/tree/main/reports/Crear_miembro_con_email_erroneo">Click aqui</a></td>
-</tr>
-<tr align="center">
-<td>Guardar miembro solo con email y no suscrito a newsletter</td>
-<td><a href="https://github.com/ELISAANGULO/pruebaskraken/tree/main/reports/Crear_miembro_con_.email_correcto">Click aqui</a></td>
 </tr>
 </table>
 
