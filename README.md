@@ -21,7 +21,7 @@
 
 1. Respecto al reporte que genera se identifica que no se pueden tener configuraciones en los parametros para  realizar una comparacion, esto con ejemplo umbrales para las diferencias entre imagenes.
 
-## Backstop
+# Backstop
 
 ## Pros
 
