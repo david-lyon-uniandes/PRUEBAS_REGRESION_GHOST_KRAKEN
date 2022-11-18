@@ -12,7 +12,7 @@
 
 [Escenario 1 y 2](https://uniandes-my.sharepoint.com/:w:/g/personal/da_vargasl1_uniandes_edu_co/EZcX7cm9yhlNvq4bDLYuxhkB_wF76dtIaLq6UvA1tMpClg?e=C4ySrE)
 <br/>
-## Escenarios implementados en Kraken 🐙
+## Escenarios implementados en Kraken 🐙 y analizados en Backstop JS
 
 <table align="center">
 <tr align="center">
@@ -34,8 +34,6 @@
 <td><a href="https://github.com/ELISAANGULO/pruebaskraken/tree/main/reports/Funcionalidad_Crear_Post">Click aqui</a></td>
 </tr>
 <tr align="center">
-<td>Crear un post y hacer preview</td>
-<td><a href="https://github.com/ELISAANGULO/pruebaskraken/tree/main/reports/Funcionalidad_Crear_Post">Click aqui</a></td>
 </tr>
 <tr align="center">
 <th rowspan="4"><center>Crear pagina</center></th>
@@ -60,33 +58,16 @@
 <td><a href="https://github.com/ELISAANGULO/pruebaskraken/tree/main/reports/Crear_Tag_Sin_Nombre">Click aqui</a></td>
 </tr>
 <tr align="center">
-<td>Crear tags solo con nombre</td>
-<td><a href="https://github.com/ELISAANGULO/pruebaskraken/tree/main/reports/Crear_Tag_Solo_Con_Nombre">Click aqui</a></td>
 </tr>
 <tr align="center">
-<td>Crear tags con nombre y descripcion</td>
-<td><a href="https://github.com/ELISAANGULO/pruebaskraken/tree/main/reports/Crear_Tag_Con_Nombre_Con_Descripcion">Click aqui</a></td>
 </tr>
-<tr align="center">
-<td>Crear tag vacio</td>
-<td><a href="https://github.com/ELISAANGULO/pruebaskraken/tree/main/reports/Crear_Tag_Vacio">Click aqui</a></td>
 </tr>
 <tr align="center">
 <th rowspan="4"><center> Crear usuario</center></th>
-<td>Crear usuario con los datos correctos</td>
-<td><a href="https://github.com/ELISAANGULO/pruebaskraken/tree/main/reports/Crear_Usuario_Datos_Correctos">Click aqui</a></td>
 </tr>
 <tr align="center">
 <td>Registrar usuario con un email erroneo</td>
 <td><a href="https://github.com/ELISAANGULO/pruebaskraken/tree/main/reports/Crear_Usuario_Email_Incorrecto">Click aqui</a></td>
-</tr>
-<tr align="center">
-<td>Registrar usuario vacio</td>
-<td><a href="https://github.com/ELISAANGULO/pruebaskraken/tree/main/reports/Crear_Usuario_Datos_Vacios">Click aqui</a></td>
-</tr>
-<tr align="center">
-<td>Registrar usuario solo con email y no poner contraseña </td>
-<td><a href="https://github.com/ELISAANGULO/pruebaskraken/tree/main/reports/Crear_Usuario_Sin_Contrase%C3%B1a">Click aqui</a></td>
 </tr>
 </table>
 
