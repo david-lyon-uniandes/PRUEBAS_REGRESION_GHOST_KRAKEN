@@ -9,6 +9,16 @@
 | Camilo Barreiro   | c.barreiroh@uniandes.edu.co  |
 | Isaí Oliva        | i.oliva@uniandes.edu.co  |
 
+# Listado de diferencias encontradas Ghost 3.34 - Ghost 5.19.0
+
+| Diferencia Identificada | Descripción detallada | Aplicacion | Evidencia Ghost 3.34 | Evidencia Ghost 5.19.0 |
+| :---         |     :---:      |          ---: |     :---:      |          ---: |
+| git status   | git status     | Ghost         | Link          | Link         |
+| git diff     | git diff       | Ghost         | Link          | Link         |
+| git diff     | git diff       | Ghost         | Link          | Link         |
+| git diff     | git diff       | Ghost         | Link          | Link         |
+| git diff     | git diff       | Ghost         | Link          | Link         |
+
 # Resemblejs
 
 ## Pros
