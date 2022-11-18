@@ -83,52 +83,6 @@ node 16.17.1
 
 Para la ejecucion primero se tiene que descargar el repositorio colocando en la terminal el siguiente comando:
 
-
-Crear un directorio para instalar ghost 5.19.0
-```shell
-mkdir ghost5_19_0
-```
-```shell
-cd ghost5_19_0
-```
-
-```shell
-ghost install 5.19.0 --port 2368 local
-```
-```shell
-ghost start
-```
-
-```shell
-mkdir equipo18
-```
-
-```shell
-cd equipo18
-```
-
-```shell
-git clone https://github.com/ELISAANGULO/Kraken.git
-```
-Luego de haber descargado el repositorio procedera a ejecutar el siguiente comando dentro de la carpeta descargada
-
-```shell
-npm install kraken-node -g
-```
-
-Luego de haber ejecutado el comando anterior procede a ejecutar Kraken con el siguiente comando
-
-configurar el usuario administrador con las credenciales email y password de este archivo.
-
-[user data](/features/web/step_definitions/pages_object/userData.js)
-
-Para ejecutar los escenarios se debe mover los archivos uno por uno y ejecutar del directorio PruebasGhost en features.
-
-[PruebasGhost](/PruebasGhost)
-</br>
-[features](/features)
-
-
 ```shell
 $ ./node_modules/kraken-node/bin/kraken-node run
 ```
