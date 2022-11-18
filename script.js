@@ -7,8 +7,8 @@ async function ejecutarScript() {
   
 
   let listaEscenarios = [];
-  let escenarios = 2
-  let pasos = 2
+  let escenarios = 10
+  let pasos = 7
 
   for (let escenario = 0; escenario < escenarios; escenario++){
     for (let paso = 0; paso < pasos; paso++) {

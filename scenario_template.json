@@ -10,6 +10,6 @@
     "selectors": [],
     "selectorExpansion": true,
     "expect": 0,
-    "misMatchThreshold": 8,
+    "misMatchThreshold": 5,
     "requireSameDimensions": true
 }
