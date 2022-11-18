@@ -84,14 +84,6 @@ node 16.17.1
 
 # Ejecutar Script
 
-
-```shell
-npm install
-```
-
-```shell
-npm init
-```
 1. Ejecutar Script
 
 ```shell
