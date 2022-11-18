@@ -84,6 +84,7 @@ node 16.17.1
 
 # Ejecutar Script
 
+
 ```shell
 npm install
 ```
@@ -91,21 +92,21 @@ npm install
 ```shell
 npm init
 ```
+1. Ejecutar Script
 
 ```shell
 npm run script
 ```
 
+2. Ejecutar comando
+
 ```shell
 backstop reference
 ```
 
+3. Ejecutar comando
+
 ```shell
 backstop test
 ```
-
-```shell
-$ ./node_modules/kraken-node/bin/kraken-node run
-```
-
 
