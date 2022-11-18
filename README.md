@@ -81,7 +81,28 @@ node 16.17.1
 
 ## Ejecución
 
-Para la ejecucion primero se tiene que descargar el repositorio colocando en la terminal el siguiente comando:
+
+# Ejecutar Script
+
+```shell
+npm install
+```
+
+```shell
+npm init
+```
+
+```shell
+npm run script
+```
+
+```shell
+backstop reference
+```
+
+```shell
+backstop test
+```
 
 ```shell
 $ ./node_modules/kraken-node/bin/kraken-node run
