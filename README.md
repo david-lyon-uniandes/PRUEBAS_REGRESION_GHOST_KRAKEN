@@ -134,4 +134,9 @@ backstop reference
 ```shell
 backstop test
 ```
+## Reporte
 
+Para ver el reporte de click en este [link](https://github.com/david-lyon-uniandes/PRUEBAS_REGRESION_GHOST_KRAKEN/releases/tag/v.1.1.0) para descarga un release y una ves descomprimida la carpeta vaya al directorio y abra el archivo index.html en el browser:
+
+
+./backstop_data/html_report/index.html
