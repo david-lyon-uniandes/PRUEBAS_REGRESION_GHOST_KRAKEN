@@ -13,7 +13,7 @@
 
 | Diferencia Identificada | Descripción detallada | Aplicacion | Evidencia Ghost 3.34 -> Evidencia Ghost 5.19.0 -> diff |
 | :---         |     :---:      |          ---: |     :---:      |
-| Diferencia en login   | git status     | Ghost         |![Screenshot 2022-11-18 185440](https://user-images.githubusercontent.com/111364928/202816586-c1e19fa6-066e-49d4-bbbf-6a6d1d4dc414.jpg)|
+| Diferencia en login   | Diferencia en el botón de siging, color y dimensiones de ancho y alto. Diferencia en el tamaño de los unputs de username y password    | Ghost         |![Screenshot 2022-11-18 185440](https://user-images.githubusercontent.com/111364928/202816586-c1e19fa6-066e-49d4-bbbf-6a6d1d4dc414.jpg)|
 | Diferencia en barra de navegación y el header     | git diff       | Ghost         |![Screenshot 2022-11-18 185719](https://user-images.githubusercontent.com/111364928/202816810-1a01b634-4ac6-48b1-9b8a-dee580961c4c.jpg) |
 | Diferencia en crear posts    | git diff       | Ghost         |![Screenshot 2022-11-18 185918](https://user-images.githubusercontent.com/111364928/202816987-5cf36ca7-6f05-435a-8411-ed776ea1ff48.jpg)|
 | listado de paginas   | git diff       | Ghost         |![Screenshot 2022-11-18 190056](https://user-images.githubusercontent.com/111364928/202817193-389d2dd6-13a8-4447-a044-dc9d226a889a.jpg)|
