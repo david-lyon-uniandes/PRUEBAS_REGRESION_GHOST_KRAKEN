@@ -11,14 +11,51 @@
 
 # Listado de diferencias encontradas Ghost 3.42 - Ghost 5.19.0
 
-| Diferencia Identificada | Descripción detallada | Aplicacion | Evidencia Ghost 3.34 -> Evidencia Ghost 5.19.0 -> diff |
-| :---         |     :---:      |          ---: |     :---:      |
-| Diferencia en login   | Diferencia en el botón de siging, color y dimensiones de ancho y alto. Diferencia en el tamaño de los unputs de username y password    | Ghost         |![Screenshot 2022-11-18 185440](https://user-images.githubusercontent.com/111364928/202816586-c1e19fa6-066e-49d4-bbbf-6a6d1d4dc414.jpg)|
-| Diferencia en barra de navegación y el header     | En el header, en la posición de las secciones para consultar o filtrar un post, diferencia en el botón de new post en cuanto al color, diferencia en el simbolo de sección de post , diferencia de la presentación de los posts creados. | Ghost         |![Screenshot 2022-11-18 185719](https://user-images.githubusercontent.com/111364928/202816810-1a01b634-4ac6-48b1-9b8a-dee580961c4c.jpg) |
-| Diferencia en crear posts    |el botón de back (post) el color de la fuente es diferente, en la nueva versión esta la opción de colocar imagen antes del título, mno hay botón de publish en la nueva versión y cambio la fuente| Ghost         |![Screenshot 2022-11-18 185918](https://user-images.githubusercontent.com/111364928/202816987-5cf36ca7-6f05-435a-8411-ed776ea1ff48.jpg)|
-| listado de paginas   | El botón de new post, no se tiene la columna de title, los botones de los filstros son diferentes, | Ghost         |![Screenshot 2022-11-18 190056](https://user-images.githubusercontent.com/111364928/202817193-389d2dd6-13a8-4447-a044-dc9d226a889a.jpg)|
-| Edición de páginas     | Para editar una pagin las diferencias son: En la version 3.42 no tiene la opcion de agregar imagen, en la nueva version el titulo es mas grande que la vieja version, el boton del color de page es azul para la version 3.42 y para la nueva version es negro   , en la esquina inferior de la version 5.19 tiene un indicar de cantidad de palabras y finalmente el simbolo de configuración es diferente.  | Ghost         |![Screenshot 2022-11-18 190154](https://user-images.githubusercontent.com/111364928/202817290-210e34ca-f53a-45db-9a12-313865e1af72.jpg)|
-| crear páginas     | Para crear paginas las diferencias son: En la version 3.42 no tiene la opcion de agregar imagen, en la nueva version el titulo es mas grande que la vieja version, el boton del color de page es azul para la version 3.42 y para la nueva version es negro   , en la esquina inferior de la version 5.19 tiene un indicar de cantidad de palabras y finalmente el simbolo de configuración es diferente.      | Ghost         |![Screenshot 2022-11-18 190341](https://user-images.githubusercontent.com/111364928/202817465-9f4bf4c5-4b68-44fd-b049-1d404aeb9155.jpg)|
+<table>
+<tr align="center">
+<th><center>Diferencia Identificada</center></th>
+<th><center>Descripción detallada</center></th>
+<th><center>Aplicacion</center></th>
+<th><center>Evidencia Ghost 3.34 -> Evidencia Ghost 5.19.0 -> diff</center></th>
+</tr>
+<tr align="center">
+ <td>Diferencia en login</td>
+ <td> Diferencia en el botón de siging, color y dimensiones de ancho y alto. Diferencia en el tamaño de los unputs de username y password</td>
+ <td>Ghost</td>
+ <td><img src="https://user-images.githubusercontent.com/111364928/202816586-c1e19fa6-066e-49d4-bbbf-6a6d1d4dc414.jpg"></td>
+</tr>
+ <tr align="center">
+ <td>Diferencia en barra de navegación y el header</td>
+ <td> En el header, en la posición de las secciones para consultar o filtrar un post, diferencia en el botón de new post en cuanto al color, diferencia en el simbolo de sección de post , diferencia de la presentación de los posts creados.</td>
+ <td>Ghost</td>
+ <td><img src="https://user-images.githubusercontent.com/111364928/202816586-c1e19fa6-066e-49d4-bbbf-6a6d1d4dc414.jpg"></td>
+</tr>
+  <tr align="center">
+ <td>Diferencia en crear posts</td>
+ <td> el botón de back (post) el color de la fuente es diferente, en la nueva versión esta la opción de colocar imagen antes del título, mno hay botón de publish en la nueva versión y cambio la fuente</td>
+ <td>Ghost</td>
+ <td><img src="https://user-images.githubusercontent.com/111364928/202816987-5cf36ca7-6f05-435a-8411-ed776ea1ff48.jpg"></td>
+</tr>
+   <tr align="center">
+ <td>listado de paginas </td>
+ <td> El botón de new post, no se tiene la columna de title, los botones de los filstros son diferentes,</td>
+ <td>Ghost</td>
+ <td><img src="https://user-images.githubusercontent.com/111364928/202817193-389d2dd6-13a8-4447-a044-dc9d226a889a.jpg"></td>
+</tr>
+    <tr align="center">
+ <td>Edición de páginas </td>
+ <td> Para editar una pagin las diferencias son: En la version 3.42 no tiene la opcion de agregar imagen, en la nueva version el titulo es mas grande que la vieja version, el boton del color de page es azul para la version 3.42 y para la nueva version es negro   , en la esquina inferior de la version 5.19 tiene un indicar de cantidad de palabras y finalmente el simbolo de configuración es diferente.</td>
+ <td>Ghost</td>
+ <td><img src="https://user-images.githubusercontent.com/111364928/202817290-210e34ca-f53a-45db-9a12-313865e1af72.jpg"></td>
+</tr>
+     <tr align="center">
+ <td> crear páginas  </td>
+ <td> Para crear paginas las diferencias son: En la version 3.42 no tiene la opcion de agregar imagen, en la nueva version el titulo es mas grande que la vieja version, el boton del color de page es azul para la version 3.42 y para la nueva version es negro   , en la esquina inferior de la version 5.19 tiene un indicar de cantidad de palabras y finalmente el simbolo de configuración es diferente. </td>
+ <td>Ghost</td>
+ <td><img src="https://user-images.githubusercontent.com/111364928/202817465-9f4bf4c5-4b68-44fd-b049-1d404aeb9155.jpg"></td>
+</tr>
+</table>
+
 
 # Reportes
 
