@@ -66,19 +66,12 @@
 <td><a href="https://github.com/ELISAANGULO/pruebaskraken/tree/main/reports/Crear_pagina_con_titulo_con_descripcion">Click aqui</a></td>
 </tr>
 <tr align="center">
-<th rowspan="4"><center> Crear tags</center></th>
+<th ><center> Crear tags</center></th>
 <td>Crear tags sin nombre</td>
 <td><a href="https://github.com/ELISAANGULO/pruebaskraken/tree/main/reports/Crear_Tag_Sin_Nombre">Click aqui</a></td>
 </tr>
 <tr align="center">
-</tr>
-<tr align="center">
-</tr>
-</tr>
-<tr align="center">
-<th rowspan="4"><center> Crear usuario</center></th>
-</tr>
-<tr align="center">
+<th><center> Crear usuario</center></th>
 <td>Registrar usuario con un email erroneo</td>
 <td><a href="https://github.com/ELISAANGULO/pruebaskraken/tree/main/reports/Crear_Usuario_Email_Incorrecto">Click aqui</a></td>
 </tr>
