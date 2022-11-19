@@ -47,7 +47,7 @@
   <tr align="center">
  <td>Diferencia en crear posts</td>
  <td>
- <ul>
+ <ul align="left">
  <li>el botón de back (post) el color de la fuente es diferente</li>
  <li>en la nueva versión esta la opción de colocar imagen antes del título</li>
  <li> En la nueva version hay botón de publish en la nueva versión y cambio la fuente</li>
@@ -59,7 +59,7 @@
    <tr align="center">
  <td>listado de paginas </td>
  <td> 
-  <ul>
+  <ul align="left">
  <li> El botón de new post cambia</li>
  <li>no se tiene la columna de title en la nueva version</li>
  <li> Los botones de los filstros son diferentes</li>
@@ -71,7 +71,7 @@
     <tr align="center">
  <td>Edición de páginas </td>
  <td> 
-   <ul>
+   <ul align="left">
  <li> Para editar una pagin las diferencias son: En la version 3.42 no tiene la opcion de agregar imagen</li>
  <li>en la nueva version el titulo es mas grande que la vieja version, el boton del color de page es azul para la version 3.42   y para la nueva version es negro </li>
  <li> en la esquina inferior de la version 5.19 tiene un indicar de cantidad de palabras</li>
@@ -84,7 +84,7 @@
      <tr align="center">
  <td> crear páginas  </td>
  <td> 
-    <ul>
+    <ul align="left">
  <li> Para crear paginas las diferencias son: En la version 3.42 no tiene la opcion de agregar imagen</li>
  <li>en la nueva version el titulo es mas grande que la vieja version, el boton del color de page es azul para la version 3.42   y para la nueva version es negro </li>
  <li> en la esquina inferior de la version 5.19 tiene un indicar de cantidad de palabras</li>
