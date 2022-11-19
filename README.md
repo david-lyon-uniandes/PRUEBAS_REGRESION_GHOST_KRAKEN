@@ -20,37 +20,77 @@
 </tr>
 <tr align="center">
  <td>Diferencia en login</td>
- <td> Diferencia en el botón de siging, color y dimensiones de ancho y alto. Diferencia en el tamaño de los unputs de username y password</td>
+ <td> 
+ <ul align="left">
+ <li> Diferencia en el botón de siging, color y dimensiones de ancho y alto</li>
+ <li>Diferencia en el tamaño de los unputs de username y password</li>
+ </ul>
+</td>
  <td>Ghost</td>
  <td><img src="https://user-images.githubusercontent.com/111364928/202816586-c1e19fa6-066e-49d4-bbbf-6a6d1d4dc414.jpg"></td>
 </tr>
  <tr align="center">
  <td>Diferencia en barra de navegación y el header</td>
- <td> En el header, en la posición de las secciones para consultar o filtrar un post, diferencia en el botón de new post en cuanto al color, diferencia en el simbolo de sección de post , diferencia de la presentación de los posts creados.</td>
+ <td>
+ <ul align="left">
+ <li>En el header, en la posición de las secciones para consultar o filtrar un post</li>
+ <li>Diferencia en el botón de new post en cuanto al color</li>
+ <li>Diferencia en el simbolo de sección de post</li>
+ <li>Diferencia en el botón de new post en cuanto al color</li>
+ <li>Diferencia en el simbolo de sección de post</li>
+  <li>Diferencia de la presentación de los posts creados</li>
+ </ul>
+ </td>
  <td>Ghost</td>
  <td><img src="https://user-images.githubusercontent.com/111364928/202816586-c1e19fa6-066e-49d4-bbbf-6a6d1d4dc414.jpg"></td>
 </tr>
   <tr align="center">
  <td>Diferencia en crear posts</td>
- <td> el botón de back (post) el color de la fuente es diferente, en la nueva versión esta la opción de colocar imagen antes del título, mno hay botón de publish en la nueva versión y cambio la fuente</td>
+ <td>
+ <ul>
+ <li>el botón de back (post) el color de la fuente es diferente</li>
+ <li>en la nueva versión esta la opción de colocar imagen antes del título</li>
+ <li> En la nueva version hay botón de publish en la nueva versión y cambio la fuente</li>
+ </ul>
+ </td>
  <td>Ghost</td>
  <td><img src="https://user-images.githubusercontent.com/111364928/202816987-5cf36ca7-6f05-435a-8411-ed776ea1ff48.jpg"></td>
 </tr>
    <tr align="center">
  <td>listado de paginas </td>
- <td> El botón de new post, no se tiene la columna de title, los botones de los filstros son diferentes,</td>
+ <td> 
+  <ul>
+ <li> El botón de new post cambia</li>
+ <li>no se tiene la columna de title en la nueva version</li>
+ <li> Los botones de los filstros son diferentes</li>
+ </ul>
+</td>
  <td>Ghost</td>
  <td><img src="https://user-images.githubusercontent.com/111364928/202817193-389d2dd6-13a8-4447-a044-dc9d226a889a.jpg"></td>
 </tr>
     <tr align="center">
  <td>Edición de páginas </td>
- <td> Para editar una pagin las diferencias son: En la version 3.42 no tiene la opcion de agregar imagen, en la nueva version el titulo es mas grande que la vieja version, el boton del color de page es azul para la version 3.42 y para la nueva version es negro   , en la esquina inferior de la version 5.19 tiene un indicar de cantidad de palabras y finalmente el simbolo de configuración es diferente.</td>
+ <td> 
+   <ul>
+ <li> Para editar una pagin las diferencias son: En la version 3.42 no tiene la opcion de agregar imagen</li>
+ <li>en la nueva version el titulo es mas grande que la vieja version, el boton del color de page es azul para la version 3.42   y para la nueva version es negro </li>
+ <li> en la esquina inferior de la version 5.19 tiene un indicar de cantidad de palabras</li>
+ <li>finalmente el simbolo de configuración es diferente.</li>
+ </ul>
+ </td>
  <td>Ghost</td>
  <td><img src="https://user-images.githubusercontent.com/111364928/202817290-210e34ca-f53a-45db-9a12-313865e1af72.jpg"></td>
 </tr>
      <tr align="center">
  <td> crear páginas  </td>
- <td> Para crear paginas las diferencias son: En la version 3.42 no tiene la opcion de agregar imagen, en la nueva version el titulo es mas grande que la vieja version, el boton del color de page es azul para la version 3.42 y para la nueva version es negro   , en la esquina inferior de la version 5.19 tiene un indicar de cantidad de palabras y finalmente el simbolo de configuración es diferente. </td>
+ <td> 
+    <ul>
+ <li> Para crear paginas las diferencias son: En la version 3.42 no tiene la opcion de agregar imagen</li>
+ <li>en la nueva version el titulo es mas grande que la vieja version, el boton del color de page es azul para la version 3.42   y para la nueva version es negro </li>
+ <li> en la esquina inferior de la version 5.19 tiene un indicar de cantidad de palabras</li>
+ <li>finalmente el simbolo de configuración es diferente.</li>
+ </ul>
+</td>
  <td>Ghost</td>
  <td><img src="https://user-images.githubusercontent.com/111364928/202817465-9f4bf4c5-4b68-44fd-b049-1d404aeb9155.jpg"></td>
 </tr>
