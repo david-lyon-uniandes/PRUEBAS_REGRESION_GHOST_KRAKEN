@@ -117,5 +117,12 @@ backstop test
 ```
 ## Reporte
 
-Para ver el reporte de click en este [link](https://github.com/david-lyon-uniandes/PRUEBAS_REGRESION_GHOST_KRAKEN/releases/tag/v.1.1.0) y descargue el release y una ves descomprimida la carpeta vaya al directorio ./backstop_data/html_report/ y abra el archivo index.html en el browser:
+Para ver el reporte de click en este [link](https://github.com/david-lyon-uniandes/PRUEBAS_REGRESION_GHOST_KRAKEN/releases/tag/v.1.1.0) y descargue el release y una vez descomprimida la carpeta vaya al directorio.
+
+```shell
+./backstop_data/html_report/
+```
+
+Luego de estar dentro de la directorio html_report desplegue el archivo ```index.html``` en el navegador de preferencia.
+
 
